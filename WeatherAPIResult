@@ -1,0 +1,11 @@
+public class WeatherAPIResult
+{
+    public CurrentWeather current_weather;
+
+}
+
+public class CurrentWeather
+{
+    public float temperature ;
+
+}
