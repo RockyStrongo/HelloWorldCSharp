@@ -12,3 +12,4 @@ public class GeolocDataResult
     public string name { get; set; }
 
 }
+
